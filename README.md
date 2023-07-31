@@ -1,0 +1,1 @@
+Fixes to make CutyCapt compile with qt5. The code was taken from [https://gist.github.com/arndo/c629eac09d7137e281ff](https://gist.github.com/arndo/c629eac09d7137e281ff)
